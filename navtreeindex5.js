@@ -1,5 +1,6 @@
 var NAVTREEINDEX5 =
 {
+"classgGUINotebook.html#a45ce1655e58cf3b09121fdb2f19e3513":[0,0,73,3],
 "classgGUINotebook.html#a4e7b8adf4e3f427b8bf3575ea98457fc":[0,0,73,1],
 "classgGUINotebook.html#a54401e0759917bf38aba86d802b406cd":[0,0,73,0],
 "classgGUINotebook.html#a55d8df758b034c169da38b3fa5ae6cf6":[0,0,73,5],
@@ -135,8 +136,8 @@ var NAVTREEINDEX5 =
 "classgGUIRadioButton.html#af7ef4cab5af8263bfeca9ed991528de8":[0,0,80,12],
 "classgGUIRadioButton.html#af91a614c413c8f97398b82435a77ed8f":[0,0,80,20],
 "classgGUIResources.html":[0,0,81],
+"classgGUIResources.html#a0343e3dcaf2451052887b021fc1de3d8":[0,0,81,4],
 "classgGUIResources.html#a126c1fad2129cdd17efece83a39ec4d5":[0,0,81,8],
-"classgGUIResources.html#a38f5e94dca7cb13f335cc29d1f3006b3":[0,0,81,4],
 "classgGUIResources.html#a53d8951a45d0942bc9fa52f9ac9f75c7":[0,0,81,3],
 "classgGUIResources.html#a829e994695f9f6f6d902148186b758d4":[0,0,81,0],
 "classgGUIResources.html#a8a384d6b2119d1aeafe59cfd6208837d":[0,0,81,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX5 =
 "classgGUISlider.html#af0283b147a1c6d9e7ceb489047b86fa4":[0,0,84,0],
 "classgGUISlider.html#af9332dd1d66f23978cc65cbf2152c537":[0,0,84,21],
 "classgGUISlider.html#afb44641fbf0026a90cb11c5376deaaa7":[0,0,84,14],
-"classgGUIStatusBar.html":[0,0,85],
-"classgGUIStatusBar.html#a0882a4d9554408dbca86726a18e86861":[0,0,85,2]
+"classgGUIStatusBar.html":[0,0,85]
 };

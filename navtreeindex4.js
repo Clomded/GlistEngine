@@ -1,5 +1,6 @@
 var NAVTREEINDEX4 =
 {
+"classgGUIGraph.html#a291a35d8eb55d99011e0f3cc1298375c":[0,0,64,21],
 "classgGUIGraph.html#a2e66d7016075a36257344031922e9ed3":[0,0,64,23],
 "classgGUIGraph.html#a35405657e861ad6ca649dd26a6b39cc7":[0,0,64,28],
 "classgGUIGraph.html#a3cad850af521be4327832a9aecd3a672":[0,0,64,40],
@@ -117,16 +118,16 @@ var NAVTREEINDEX4 =
 "classgGUIGrid.html#afb836e7cd78b9d80908f502fa8cb6cd3":[0,0,65,9],
 "classgGUIGrid.html#aff4d04bfd2da4d1c38201529866ff307":[0,0,65,13],
 "classgGUIImageButton.html":[0,0,66],
-"classgGUIImageButton.html#a0b3f18969a06fee07d23e2eb736e0424":[0,0,66,10],
 "classgGUIImageButton.html#a12e7b7a2618eee3bffeb598e2ecb1dce":[0,0,66,5],
-"classgGUIImageButton.html#a1946e2b0db903ccdddbbb8cbfe031885":[0,0,66,13],
 "classgGUIImageButton.html#a1eef8d162deb726164082a53f0140a04":[0,0,66,12],
 "classgGUIImageButton.html#a4569b15eebe737b8c65a1bf31781cd41":[0,0,66,9],
 "classgGUIImageButton.html#a4a2fc05413de03f439ac07c2e7027927":[0,0,66,3],
 "classgGUIImageButton.html#a6ce545b358335839844599f3c3474984":[0,0,66,2],
 "classgGUIImageButton.html#a8561fec7ee49f3925d494c28b4d2c656":[0,0,66,7],
 "classgGUIImageButton.html#a8ab60bf2910a278caf1d8f68d00fe654":[0,0,66,4],
+"classgGUIImageButton.html#a969d6f28c26fc48f6ffc2f9616bbe3d3":[0,0,66,13],
 "classgGUIImageButton.html#aa26c0ee1e923e62df0b637ace5cf9cb3":[0,0,66,8],
+"classgGUIImageButton.html#ac665488321e85dc31b3fa470b0aaae9c":[0,0,66,10],
 "classgGUIImageButton.html#acfc3db1a84f4d96cf132564a1efc6a85":[0,0,66,0],
 "classgGUIImageButton.html#ad3335e8bbc9f1e6926e8edaf8b445396":[0,0,66,6],
 "classgGUIImageButton.html#ad507c469f43347503b4775e03900d7c9":[0,0,66,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX4 =
 "classgGUINotebook.html":[0,0,73],
 "classgGUINotebook.html#a0348b3386e922653b9d43c6e1579d8d7":[0,0,73,6],
 "classgGUINotebook.html#a1af46e39cb61c283a87536f8828f3131":[0,0,73,4],
-"classgGUINotebook.html#a2dd9aa92311d9408caa33cdd405b8404":[0,0,73,9],
-"classgGUINotebook.html#a45ce1655e58cf3b09121fdb2f19e3513":[0,0,73,3]
+"classgGUINotebook.html#a2dd9aa92311d9408caa33cdd405b8404":[0,0,73,9]
 };
