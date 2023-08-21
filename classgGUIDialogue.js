@@ -27,6 +27,7 @@ var classgGUIDialogue =
     [ "setButtonsBar", "classgGUIDialogue.html#a10770acc4cfc406f86d340bb92e7f984", null ],
     [ "setDialogueType", "classgGUIDialogue.html#a4269aca9288e53e01ffef8f751e0dda7", null ],
     [ "setExitButton", "classgGUIDialogue.html#a252d18437050c9792272c74bc7d798f8", null ],
+    [ "setIconEnabled", "classgGUIDialogue.html#a909a2ffe3c2ed3702f43f5906c6913c8", null ],
     [ "setIsMaximized", "classgGUIDialogue.html#a057b76ade5eb80c95093f2d14d5bb9e7", null ],
     [ "setMaximizeButton", "classgGUIDialogue.html#a587591f0cca8e6f8d7df96c135b0481d", null ],
     [ "setMessageBar", "classgGUIDialogue.html#ad19a3db8e4a8454b391f1e3bbd2550e8", null ],
